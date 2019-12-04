@@ -34,6 +34,8 @@ sudo make install
 cd /usr/local/lib
 
 sudo cp librealsense2.so pyrealsense2.cpython-36m-aarch64-linux-gnu.so /usr/lib/python3.6/site-packages/
+
+sudo cp librealsense2.so pyrealsense2.cpython-36m-aarch64-linux-gnu.so /usr/lib/python3.6/dist-packages/
 ```
 
 
